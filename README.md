@@ -1,5 +1,6 @@
-# ds-project-template
-Template for creating ds simple projects 
+# MY_FIRST_PROJECT
+This repository contains the first EDA assignment of neuefische
+ 
 
 
 ## Requirements
